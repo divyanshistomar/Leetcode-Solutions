@@ -17,8 +17,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0739-daily-temperatures](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
