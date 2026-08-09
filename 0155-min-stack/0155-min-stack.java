@@ -28,7 +28,6 @@ class MinStack {
         return st.peek()[1];
     }
 }
-
 /**
  * Your MinStack object will be instantiated and called as such:
  * MinStack obj = new MinStack();
