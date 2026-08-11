@@ -1,39 +1,30 @@
 class Solution {
     public int[] nextGreaterElement(int[] nums1, int[] nums2) {
 
-        ArrayList<Integer> ans = new ArrayList<>();
+        Stack<Integer> st = new Stack<>();
+        HashMap<Integer, Integer> map = new HashMap<>();
+
+        for(int i = nums2.length - 1; i >= 0; i--) {
+
+            while(!st.isEmpty() && st.peek() <= nums2[i]) {
+                st.pop();
+            }
+
+            if(st.isEmpty()) {
+                map.put(nums2[i], -1);
+            } else {
+                map.put(nums2[i], st.peek());
+            }
+
+            st.push(nums2[i]);
+        }
+
+        int[] ans = new int[nums1.length];
 
         for(int i = 0; i < nums1.length; i++) {
-
-            Stack<Integer> st = new Stack<>();
-
-            for(int j = nums2.length - 1; j >= 0; j--) {
-
-                if(nums1[i] == nums2[j]) {
-
-                    while(!st.isEmpty() && st.peek() <= nums2[j]) {
-                        st.pop();
-                    }
-
-                    if(st.isEmpty()) {
-                        ans.add(-1);
-                    } else {
-                        ans.add(st.peek());
-                    }
-
-                    break;
-                }
-
-                st.push(nums2[j]);
-            }
+            ans[i] = map.get(nums1[i]);
         }
 
-        int[] result = new int[ans.size()];
-
-        for(int i = 0; i < ans.size(); i++) {
-            result[i] = ans.get(i);
-        }
-
-        return result;
+        return ans;
     }
 }
