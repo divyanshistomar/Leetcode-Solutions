@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
+| [1710-maximum-units-on-a-truck](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,4 +80,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0901-online-stock-span) |
+## Greedy
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+## Sorting
+|  |
+| ------- |
+| [1710-maximum-units-on-a-truck](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 <!---LeetCode Topics End-->
