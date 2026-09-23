@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2278-percentage-of-letter-in-string](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2942-find-words-containing-character](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
