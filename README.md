@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0216-combination-sum-iii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 | [0435-non-overlapping-intervals](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0456-132-pattern](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
