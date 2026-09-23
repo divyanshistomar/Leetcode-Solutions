@@ -149,4 +149,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
+## Binary Tree
+|  |
+| ------- |
+| [2236-root-equals-sum-of-children](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2236-root-equals-sum-of-children) |
 <!---LeetCode Topics End-->
