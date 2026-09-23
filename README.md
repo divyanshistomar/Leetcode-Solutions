@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0496-next-greater-element-i](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
+| [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2942-find-words-containing-character](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -167,5 +169,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 <!---LeetCode Topics End-->
