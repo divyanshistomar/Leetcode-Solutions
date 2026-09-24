@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0491-non-decreasing-subsequences](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0456-132-pattern) |
+| [0491-non-decreasing-subsequences](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
@@ -140,11 +142,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0491-non-decreasing-subsequences](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0090-subsets-ii) |
+| [0491-non-decreasing-subsequences](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## String Matching
 |  |
