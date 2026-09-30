@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
+| [2652-sum-multiples](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2652-sum-multiples) |
 ## String
 |  |
 | ------- |
