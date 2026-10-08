@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0509-fibonacci-number](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0509-fibonacci-number](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Trie
 |  |
 | ------- |
@@ -195,4 +197,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
