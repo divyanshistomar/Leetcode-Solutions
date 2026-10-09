@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2057-smallest-index-with-equal-value](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -205,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->
