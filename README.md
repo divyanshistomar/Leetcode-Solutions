@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0491-non-decreasing-subsequences](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1512-number-of-good-pairs](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Math
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0509-fibonacci-number](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1512-number-of-good-pairs](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2413-smallest-even-multiple](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2413-smallest-even-multiple) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1512-number-of-good-pairs](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1512-number-of-good-pairs](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
 ## Number Theory
