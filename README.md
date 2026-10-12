@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2057-smallest-index-with-equal-value](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2057-smallest-index-with-equal-value) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
 ## Two Pointers
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0456-132-pattern) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ordered Set
 |  |
 | ------- |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
 | [2351-first-letter-to-appear-twice](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2351-first-letter-to-appear-twice) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Number Theory
 |  |
 | ------- |
