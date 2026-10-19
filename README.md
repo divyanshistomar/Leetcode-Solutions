@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2942-find-words-containing-character) |
+| [3925-concatenate-array-with-reverse](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1929-concatenation-of-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1929-concatenation-of-array) |
+| [3925-concatenate-array-with-reverse](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Linked List
 |  |
 | ------- |
