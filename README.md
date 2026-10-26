@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [1450-number-of-students-doing-homework-at-a-given-time](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1450-number-of-students-doing-homework-at-a-given-time) |
+| [1480-running-sum-of-1d-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1512-number-of-good-pairs) |
 | [1710-maximum-units-on-a-truck](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1710-maximum-units-on-a-truck) |
 | [1748-sum-of-unique-elements](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1748-sum-of-unique-elements) |
@@ -246,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0100-same-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
