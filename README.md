@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0216-combination-sum-iii) |
+| [0300-longest-increasing-subsequence](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0456-132-pattern](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0456-132-pattern) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0300-longest-increasing-subsequence](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0456-132-pattern](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0456-132-pattern) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Ordered Set
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+| [0300-longest-increasing-subsequence](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0509-fibonacci-number) |
 ## Trie
@@ -307,4 +310,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0543-diameter-of-binary-tree) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/divyanshistomar/Leetcode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
